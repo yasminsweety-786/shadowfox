@@ -61,4 +61,3 @@ Then open `http://localhost:8000` in your browser.
 
 ---
 
-Built with HTML, CSS, and JavaScript for a polished internship-ready portfolio.
